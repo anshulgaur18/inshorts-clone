@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/anshulgaur18/Inshorts-app-clone.git/static/css/main.c9d23645.css",
-    "main.js": "/anshulgaur18/Inshorts-app-clone.git/static/js/main.0668b1e6.js",
-    "index.html": "/anshulgaur18/Inshorts-app-clone.git/index.html",
-    "main.c9d23645.css.map": "/anshulgaur18/Inshorts-app-clone.git/static/css/main.c9d23645.css.map",
-    "main.0668b1e6.js.map": "/anshulgaur18/Inshorts-app-clone.git/static/js/main.0668b1e6.js.map"
+    "main.css": "/inshorts-clone/static/css/main.c9d23645.css",
+    "main.js": "/inshorts-clone/static/js/main.0668b1e6.js",
+    "index.html": "/inshorts-clone/index.html",
+    "main.c9d23645.css.map": "/inshorts-clone/static/css/main.c9d23645.css.map",
+    "main.0668b1e6.js.map": "/inshorts-clone/static/js/main.0668b1e6.js.map"
   },
   "entrypoints": [
     "static/css/main.c9d23645.css",
